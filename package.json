@@ -1,0 +1,25 @@
+{
+  "name": "heroku-test",
+  "version": "1.0.0",
+  "description": "heroku部署nodejs测试",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LastHeaven/heroku-test.git"
+  },
+  "keywords": [
+    "heroku"
+  ],
+  "author": "he",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LastHeaven/heroku-test/issues"
+  },
+  "homepage": "https://github.com/LastHeaven/heroku-test#readme",
+  "dependencies": {
+    "koa": "^2.13.1"
+  }
+}
